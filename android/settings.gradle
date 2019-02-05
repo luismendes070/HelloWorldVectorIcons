@@ -1,0 +1,3 @@
+rootProject.name = 'HelloWorldVectorIcons'
+
+include ':app'
