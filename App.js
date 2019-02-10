@@ -32,9 +32,6 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to Vector Icons!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
-        <Text>{icon}</Text>
 		<Icon.Button>{myButton}</Icon.Button>
       </View>
     );
